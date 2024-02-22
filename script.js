@@ -200,31 +200,31 @@ function updateCounter() {
 }
 
 // Appeler incrementCounter() lors du chargement de la page
-window.onload = function() {
-    incrementCounter();
-};
+// window.onload = function() {
+//     incrementCounter();
+// };
 
-const allReadMore = document.querySelectorAll(".readMore");
-const allNumberViews = document.querySelectorAll(".numberViews");
+// const allReadMore = document.querySelectorAll(".readMore");
+// const allNumberViews = document.querySelectorAll(".numberViews");
 
-const arrayNumberViews = Array.from(allNumberViews);
+// const arrayNumberViews = Array.from(allNumberViews);
 
-// -- affichage articles les plus lus -- //
-const arrayTextHide = Array.from(allTextHide);
+// // -- affichage articles les plus lus -- //
+// const arrayTextHide = Array.from(allTextHide);
 
-const arrayReadMorePopular = Array.from(allReadMorePopular);
+// const arrayReadMorePopular = Array.from(allReadMorePopular);
 
-// -- affichage du formulaire -- //
-const arrayButtonShow = Array.from(allButtonShow);
+// // -- affichage du formulaire -- //
+// const arrayButtonShow = Array.from(allButtonShow);
 
-const arrayForm = Array.from(allForm);
+// const arrayForm = Array.from(allForm);
 
-// -- affichage des modales -- //
-const arrayReadMore = Array.from(allReadMore);
+// // -- affichage des modales -- //
+// const arrayReadMore = Array.from(allReadMore);
 
-const arrayModals = Array.from(allModals);
+// const arrayModals = Array.from(allModals);
 
-const arrayExit = Array.from(allExit);
+// const arrayExit = Array.from(allExit);
 
 /*******************recherche******************/
 
