@@ -24,4 +24,4 @@ Fonctionnalité de recherche pour trouver facilement des articles par titre.
 Clonez le référentiel :
 
 ```bash
-clone git https://github.com/Vijay3/cybershieldpro.git
+clone git https://github.com/LS-Sarah/cybershieldpro.git
